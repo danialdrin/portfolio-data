@@ -2,21 +2,31 @@
     {
         "title": "School People Leader",
         "year": "2023",
-        "issuer": "Margregorios Matric Higher Secondary School"
+        "description": "Demonstrated leadership and organizational skills by leading and coordinating student activities."
     },
     {
-        "title": "Secured 9th Rank in 12th Grade Board Examinations",
+        "title": "Top 10 Rank in Public Board Examination",
         "year": "2023",
-        "issuer": "State Board of Tamil Nadu"
+        "description": "Secured 9th place in the public board examinations, reflecting strong academic performance and consistency."
     },
     {
-        "title": "Completed Front-End Development Internship",
+        "title": "Front-End Development Internship Completion",
         "year": "2024",
-        "issuer": "CodeAlpha"
+        "description": "Successfully completed a front-end development internship at CodeAlpha, building responsive web applications and earning certification for performance and contribution."
     },
     {
         "title": "CSI Executive Member",
         "year": "2024",
-        "issuer": "Computer Society of India (RMK CET)"
+        "description": "Actively organized and managed a technical event named TechDays, contributing to planning, coordination, and execution of college-level technical activities."
+    },
+    {
+        "title": "NPTEL Top Score Achiever",
+        "year": "2024",
+        "description": "Secured a top score in the NPTEL examination, demonstrating strong conceptual understanding and academic excellence."
+    },
+    {
+        "title": "Smart India Hackathon Internal Shortlist",
+        "year": "2024",
+        "description": "Shortlisted during the internal college-level Smart India Hackathon selection for proposing innovative and problem-solving driven technical solutions."
     }
 ]
