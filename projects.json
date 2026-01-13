@@ -30,6 +30,15 @@
     "techStack": ["HTML", "CSS", "JavaScript"],
     "githubLink": "https://github.com/dani-aldrin/fake-url-detector",
     "demoLink": "https://fakeurldetector.vercel.app/"
-  }
+  },
+  {
+  "title": "Music Player",
+  "description": "A modern web-based music player with intuitive controls, smooth playback, and a clean user interface for an enhanced listening experience.",
+  "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/music-player.png",
+  "techStack": ["HTML", "CSS", "JavaScript"],
+  "githubLink": "https://github.com/dani-aldrin/music-player",
+  "demoLink": "https://music-player-eight-eta.vercel.app/"
+}
 ]
+
 
