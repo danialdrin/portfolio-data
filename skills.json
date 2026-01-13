@@ -1,31 +1,22 @@
 [
     {
-        "category": "Hard Skills",
-        "items": [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "Sass",
-            "Tailwind CSS",
-            "Figma",
-            "UI/UX Design",
-            "Responsive Web Design",
-            "Git",
-            "GitHub",
-            "Vercel",
-            "GSAP"
-        ]
+        "title": "Programming",
+        "icon": "code-slash-outline",
+        "skills": ["Python", "Java", "C (Basic)"]
     },
     {
-        "category": "Soft Skills",
-        "items": [
-            "Problem Solving",
-            "Creative Thinking",
-            "Attention to Detail",
-            "Time Management",
-            "Communication",
-            "Adaptability",
-            "Team Collaboration"
-        ]
+        "title": "Frontend & Design",
+        "icon": "color-palette-outline",
+        "skills": ["React.js", "Tailwind CSS", "Figma"]
+    },
+    {
+        "title": "Core Strengths",
+        "icon": "bulb-outline",
+        "skills": ["UI/UX Design", "Problem Solving", "Logical Thinking"]
+    },
+    {
+        "title": "Soft Skills",
+        "icon": "people-outline",
+        "skills": ["Team Collaboration", "Leadership", "Communication"]
     }
 ]
