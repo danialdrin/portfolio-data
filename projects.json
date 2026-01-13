@@ -1,18 +1,34 @@
 [
   {
-    "title": "Neon Portfolio v1",
-    "description": "A high-performance personal portfolio with glassmorphism design and neon accents.",
-    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/portfolio-v1.png",
-    "techStack": ["HTML", "CSS", "Vanilla JS", "GSAP"],
-    "githubLink": "https://github.com/dani-aldrin/portfolio-v1",
-    "demoLink": "https://dani-aldrin.vercel.app"
+    "title": "Picture Gallery",
+    "description": "A responsive image gallery with smooth transitions and interactive viewing experience.",
+    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/picture-gallery.png",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "githubLink": "https://github.com/dani-aldrin/picture-gallery",
+    "demoLink": "https://picture-gallery-two.vercel.app/"
   },
   {
-    "title": "E-Commerce Explorer",
-    "description": "A fully responsive front-end for a modern grocery and electronics marketplace.",
-    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/ecommerce.png",
-    "techStack": ["HTML", "Sass", "JavaScript"],
-    "githubLink": "https://github.com/dani-aldrin/ecommerce-explorer",
-    "demoLink": ""
+    "title": "Custom Video Player",
+    "description": "A modern web-based video player with custom controls and clean UI.",
+    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/video-player.png",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "githubLink": "https://github.com/dani-aldrin/video-player",
+    "demoLink": "https://video-player-ten-phi.vercel.app/"
+  },
+  {
+    "title": "Encryption Application",
+    "description": "A client-side encryption and decryption tool demonstrating secure data handling concepts.",
+    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/encryption-app.png",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "githubLink": "https://github.com/dani-aldrin/encryption-application",
+    "demoLink": "https://encryption-application-five.vercel.app/"
+  },
+  {
+    "title": "Fake URL Detector",
+    "description": "A web application that analyzes URLs to help identify potentially malicious or fake links.",
+    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/fake-url-detector.png",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "githubLink": "https://github.com/dani-aldrin/fake-url-detector",
+    "demoLink": "https://fakeurldetector.vercel.app/"
   }
 ]
