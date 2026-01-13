@@ -1,29 +1,20 @@
-[
-    {
-        "category": "Front-End",
-        "items": [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "Sass",
-            "Tailwind"
-        ]
-    },
-    {
-        "category": "Design & UI",
-        "items": [
-            "Figma",
-            "UI/UX Design",
-            "Responsive Layouts"
-        ]
-    },
-    {
-        "category": "Tools",
-        "items": [
-            "Git",
-            "GitHub",
-            "Vercel",
-            "GSAP"
-        ]
-    }
-]
+{
+  "technical": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python"
+  ],
+  "design": [
+    "UI/UX Design",
+    "Responsive Web Design",
+    "Figma"
+  ],
+  "soft_skills": [
+    "Problem Solving",
+    "Team Collaboration",
+    "Leadership",
+    "Event Management",
+    "Communication"
+  ]
+}
