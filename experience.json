@@ -1,0 +1,14 @@
+[
+    {
+        "company": "Tech Innovations Inc.",
+        "role": "Junior Front-End Developer",
+        "duration": "2023 - Present",
+        "description": "Developed high-performance web interfaces using vanilla JavaScript and modern CSS techniques."
+    },
+    {
+        "company": "Freelance",
+        "role": "UI UX Designer",
+        "duration": "2022 - 2023",
+        "description": "Designed user-centric wireframes and prototypes for various client projects."
+    }
+]

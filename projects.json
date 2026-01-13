@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Neon Portfolio v1",
+    "description": "A high-performance personal portfolio with glassmorphism design and neon accents.",
+    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/portfolio-v1.png",
+    "techStack": ["HTML", "CSS", "Vanilla JS", "GSAP"],
+    "githubLink": "https://github.com/dani-aldrin/portfolio-v1",
+    "demoLink": "https://dani-aldrin.vercel.app"
+  },
+  {
+    "title": "E-Commerce Explorer",
+    "description": "A fully responsive front-end for a modern grocery and electronics marketplace.",
+    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/ecommerce.png",
+    "techStack": ["HTML", "Sass", "JavaScript"],
+    "githubLink": "https://github.com/dani-aldrin/ecommerce-explorer",
+    "demoLink": ""
+  }
+]

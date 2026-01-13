@@ -1,0 +1,29 @@
+[
+    {
+        "category": "Front-End",
+        "items": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Sass",
+            "Tailwind"
+        ]
+    },
+    {
+        "category": "Design & UI",
+        "items": [
+            "Figma",
+            "UI/UX Design",
+            "Responsive Layouts"
+        ]
+    },
+    {
+        "category": "Tools",
+        "items": [
+            "Git",
+            "GitHub",
+            "Vercel",
+            "GSAP"
+        ]
+    }
+]
