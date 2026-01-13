@@ -1,14 +1,20 @@
 [
     {
-        "company": "Tech Innovations Inc.",
-        "role": "Junior Front-End Developer",
-        "duration": "2023 - Present",
-        "description": "Developed high-performance web interfaces using vanilla JavaScript and modern CSS techniques."
+        "company": "CodeAlpha",
+        "role": "Front-End Developer",
+        "duration": "May 2024",
+        "description": "Developed responsive web applications including a Photo Gallery, Music Player, and Calculator using HTML, CSS, and JavaScript, with a strong focus on clean UI and usability."
     },
     {
-        "company": "Freelance",
-        "role": "UI UX Designer",
-        "duration": "2022 - 2023",
-        "description": "Designed user-centric wireframes and prototypes for various client projects."
+        "company": "RMK College of Engineering and Technology",
+        "role": "CSI Executive Member",
+        "duration": "July 2024 - Present",
+        "description": "Organized and managed technical and non-technical college events, demonstrating leadership, coordination, and event management skills."
+    },
+    {
+        "company": "Academic Projects",
+        "role": "Front-End Developer",
+        "duration": "2023 - Present",
+        "description": "Designed and implemented modern, user-friendly web interfaces emphasizing responsive layouts, accessibility, and performance."
     }
 ]
