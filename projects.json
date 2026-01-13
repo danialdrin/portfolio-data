@@ -26,9 +26,10 @@
   {
     "title": "Fake URL Detector",
     "description": "A web application that analyzes URLs to help identify potentially malicious or fake links.",
-    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/fake-url-detector.png",
+    "image": "https://github.com/danialdrin/portfolio-data/blob/main/images/images/projects/fakeurldetector.png",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "githubLink": "https://github.com/dani-aldrin/fake-url-detector",
     "demoLink": "https://fakeurldetector.vercel.app/"
   }
 ]
+
