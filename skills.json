@@ -1,30 +1,31 @@
 [
     {
-        "category": "Front-End",
+        "category": "Hard Skills",
         "items": [
             "HTML5",
             "CSS3",
             "JavaScript",
             "Sass",
-            "Tailwind"
-        ]
-    },
-    {
-        "category": "Design & UI",
-        "items": [
+            "Tailwind CSS",
             "Figma",
             "UI/UX Design",
-            "Responsive Layouts"
-        ]
-    },
-    {
-        "category": "Tools",
-        "items": [
+            "Responsive Web Design",
             "Git",
             "GitHub",
             "Vercel",
             "GSAP"
         ]
+    },
+    {
+        "category": "Soft Skills",
+        "items": [
+            "Problem Solving",
+            "Creative Thinking",
+            "Attention to Detail",
+            "Time Management",
+            "Communication",
+            "Adaptability",
+            "Team Collaboration"
+        ]
     }
-
 ]
