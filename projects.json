@@ -36,10 +36,11 @@
   "description": "A modern web-based music player with intuitive controls, smooth playback, and a clean user interface for an enhanced listening experience.",
   "image": "https://github.com/danialdrin/portfolio-data/blob/main/images/images/projects/musicplayer.png",
   "techStack": ["HTML", "CSS", "JavaScript"],
-  "githubLink": "https://github.com/danialdrin/Music-Playerr",
+  "githubLink": "https://github.com/danialdrin/Music-Player",
   "demoLink": "https://music-player-eight-eta.vercel.app/"
 }
 ]
+
 
 
 
