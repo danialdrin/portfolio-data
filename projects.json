@@ -2,7 +2,7 @@
   {
     "title": "Picture Gallery",
     "description": "A responsive image gallery with smooth transitions and interactive viewing experience.",
-    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/picture-gallery.png",
+    "image": "https://github.com/danialdrin/portfolio-data/blob/main/images/images/projects/picture-gallery.png",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "githubLink": "https://github.com/dani-aldrin/picture-gallery",
     "demoLink": "https://picture-gallery-two.vercel.app/"
@@ -10,7 +10,7 @@
   {
     "title": "Custom Video Player",
     "description": "A modern web-based video player with custom controls and clean UI.",
-    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/video-player.png",
+    "image": "https://github.com/danialdrin/portfolio-data/blob/main/images/images/projects/video-player.png",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "githubLink": "https://github.com/dani-aldrin/video-player",
     "demoLink": "https://video-player-ten-phi.vercel.app/"
@@ -18,7 +18,7 @@
   {
     "title": "Encryption Application",
     "description": "A client-side encryption and decryption tool demonstrating secure data handling concepts.",
-    "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/encryption-app.png",
+    "image": "https://github.com/danialdrin/portfolio-data/blob/main/images/images/projects/encryption-app.png",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "githubLink": "https://github.com/dani-aldrin/encryption-application",
     "demoLink": "https://encryption-application-five.vercel.app/"
@@ -34,11 +34,12 @@
   {
   "title": "Music Player",
   "description": "A modern web-based music player with intuitive controls, smooth playback, and a clean user interface for an enhanced listening experience.",
-  "image": "https://raw.githubusercontent.com/username/portfolio-data/main/images/projects/music-player.png",
+  "image": "https://github.com/danialdrin/portfolio-data/blob/main/images/images/projects//music-player.png",
   "techStack": ["HTML", "CSS", "JavaScript"],
   "githubLink": "https://github.com/dani-aldrin/music-player",
   "demoLink": "https://music-player-eight-eta.vercel.app/"
 }
 ]
+
 
 
