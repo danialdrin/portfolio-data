@@ -2,19 +2,14 @@
     {
         "company": "CodeAlpha",
         "role": "Front-End Developer",
-        "duration": "May 2024",
+        "duration": "May 2025",
         "description": "Developed responsive web applications including a Photo Gallery, Music Player, and Calculator using HTML, CSS, and JavaScript, with a strong focus on clean UI and usability."
     },
     {
-        "company": "RMK College of Engineering and Technology",
-        "role": "CSI Executive Member",
-        "duration": "July 2024 - Present",
+        "company": "UpTo Skills",
+        "role": "UI UX Intern",
+        "duration": "December 2025 - Present",
         "description": "Organized and managed technical and non-technical college events, demonstrating leadership, coordination, and event management skills."
-    },
-    {
-        "company": "Academic Projects",
-        "role": "Front-End Developer",
-        "duration": "2023 - Present",
-        "description": "Designed and implemented modern, user-friendly web interfaces emphasizing responsive layouts, accessibility, and performance."
     }
 ]
+
