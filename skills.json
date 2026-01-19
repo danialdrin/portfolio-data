@@ -2,12 +2,12 @@
     {
         "title": "Programming",
         "icon": "code-slash-outline",
-        "skills": ["Python", "Java", "C (Basic)"]
+        "skills": ["Python", "Java", "C (Basic)","C++","C#"]
     },
     {
         "title": "Frontend & Design",
         "icon": "color-palette-outline",
-        "skills": ["React.js", "Tailwind CSS", "Figma"]
+        "skills": ["React.js", "Tailwind CSS", "Figma", "HTML"]
     },
     {
         "title": "Core Strengths",
@@ -20,3 +20,4 @@
         "skills": ["Team Collaboration", "Leadership", "Communication"]
     }
 ]
+
