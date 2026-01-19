@@ -16,17 +16,23 @@
     },
     {
         "title": "CSI Executive Member",
-        "year": "2024",
+        "year": "2025",
         "description": "Actively organized and managed a technical event named TechDays, contributing to planning, coordination, and execution of college-level technical activities."
     },
     {
         "title": "NPTEL Top Score Achiever",
-        "year": "2024",
-        "description": "Secured a top score in the NPTEL examination, demonstrating strong conceptual understanding and academic excellence."
+        "year": "2025",
+        "description": "Secured a top score of 86% in the NPTEL examination, demonstrating strong conceptual understanding and academic excellence."
     },
     {
         "title": "Smart India Hackathon Internal Shortlist",
         "year": "2024",
         "description": "Shortlisted during the internal college-level Smart India Hackathon selection for proposing innovative and problem-solving driven technical solutions."
+    },
+    {
+        "title": "Ethical Hacking Essentials (EHE) – EC-Council",
+        "year": "2024",
+        "description": "Successfully completed the EC-Council Ethical Hacking Essentials (EHE) domain-based certification, gaining foundational knowledge in cybersecurity, ethical hacking concepts, threat analysis, vulnerabilities, network security, and cyber attack methodologies."
     }
 ]
+
