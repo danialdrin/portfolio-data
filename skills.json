@@ -2,7 +2,7 @@
     {
         "title": "Programming",
         "icon": "code-slash-outline",
-        "skills": ["Python", "Java", "C (Basic)","C++","C#"]
+        "skills": ["Python", "Java", "C (Basic)"]
     },
     {
         "title": "Frontend & Design",
